@@ -29,34 +29,42 @@
 
 --------------------------
 2 курс
-
+1
 Чекулаева Надежда
 Разработка сайта для описания и представления  современных гаджетов
 nichekulaeva@edu.hse.ru
 
+2
 Шатикова Анастасия
 Разработка информационно-справочной системы для сети фитнес-центров
 amshatikova@edu.hse.ru
 
-
+3
 Артюшин  Александр
 apartyushin@edu.hse.ru
 
+4
 Крайнова Юлия
 yuskraynova@edu.hse.ru
 
+5
  Аладьина Полина
  psaladina@edu.hse.ru
  
+ 6
  Черняевская Валентина
  chernyaevskayav@gmail.com
  
- 
+ 7
  Монахова Алиса
  asmonakhova_1@edu.hse.ru
  
+ 8
+ Макар Смирнов
+  
  
- nichekulaeva@edu.hse.ru; amshatikova@edu.hse.ru; apartyushin@edu.hse.ru; psaladina@edu.hse.ru; asmonakhova_1@edu.hse.ru
+ 
+ nichekulaeva@edu.hse.ru; amshatikova@edu.hse.ru; apartyushin@edu.hse.ru; psaladina@edu.hse.ru; asmonakhova_1@edu.hse.ru; mvsmirnov_2@edu.hse.ru
  
  ------------------------------------------------
  3 курс
@@ -64,8 +72,7 @@ yuskraynova@edu.hse.ru
  Евгений Суворов
  eesuvorov@edu.hse.ru
  
-  Макар Смирнов
-  mvsmirnov_2@edu.hse.ru
+
   
    Васягин
    r.h.b.k@yandex.ru
@@ -73,7 +80,7 @@ yuskraynova@edu.hse.ru
       
    !!! неизвестный
    
-   eesuvorov@edu.hse.ru; mvsmirnov_2@edu.hse.ru; r.h.b.k@yandex.ru
+   eesuvorov@edu.hse.ru; r.h.b.k@yandex.ru
   ----------------------------------- 
    4 курс
    
